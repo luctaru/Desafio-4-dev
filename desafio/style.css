@@ -1,0 +1,47 @@
+table {
+    border-collapse: collapse;
+    table-layout: fixed;
+    margin-bottom: 50px;
+}
+
+td {
+	margin-bottom: 50px;
+
+}
+
+section{
+	border: 1px solid black;
+	background-color: black;
+	margin: auto;
+
+}
+
+label{
+	color: white;
+}
+
+legend{
+	color: white;
+}
+
+#div_resul{
+	color: black;
+}
+
+input[type=submit] {
+    color: black;
+}
+
+.sec_title{
+	color: white;
+}
+
+input[name=mes_ref]{
+	margin-left: -300px;
+}
+
+input[name=ano_ref]{
+	margin-left: -300px;
+
+}
+
